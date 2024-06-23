@@ -1,0 +1,13 @@
+.folder{
+  text-align: left;
+}
+.children{
+  padding-left: 20px;
+}
+button{
+  background-color: white;
+  border: none;
+}
+.expand{
+  transform: rotate(90deg);
+}
